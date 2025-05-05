@@ -9,6 +9,6 @@ This project includes:
 
 ### Web
 ```bash
-cd web
+cd iuvohealth-website/
 npm install
 npm run dev
